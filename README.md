@@ -2,10 +2,8 @@
 
 This repo contains all necessary tools and files for an fully unattended Windows 11 installation media.
 
-## How to?
-
-Simply copy all those files and folders to a Windows Install Media stick and boot from it.
-
+## Windows Media Creation Tool
+Use the [Windows 11 media creation tool](https://www.microsoft.com/en-us/software-download/windows11) to create a Windows Media, then simply copy all those files and folders to a Windows Install Media stick and boot from it.
 
 ## Customizations
 
